@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Sua lista  de comandos disponíveis, em fase de teste ...
+# Sua lista  de comandos disponíveis...
 
 comandos=("ls" "systemctl status apache2" "systemctl start apache2" "systemctl stop apache2" "cd /var/log" "pwd" "date" "whoami" "uptime")
 
